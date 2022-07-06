@@ -18,15 +18,15 @@
             "cargo": {
                 "args": [
                     "build",
-                    "--bin=bevy_game",
-                    "--package=bevy_game",
+                    "--bin=Jurajda",
+                    "--package=Jurajda",
                     "--features",
                     "dev"
                 ],
                 "filter": {
-                    "name": "bevy_game",
+                    "name": "Jurajda",
                     "kind": "bin"
-                },
+                }
             },
             "args": [],
             "cwd": "${workspaceFolder}",
